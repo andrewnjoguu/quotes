@@ -6,13 +6,16 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## About the project
+Quote generator 3000 like in the name is a quote generator where you can insert some of your favorite quotes for other people to see and vote for the best .
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## Languages used
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+TypeScript
+HTML
+CSS
+JAVASCRIPT
 
 ## Running unit tests
 
