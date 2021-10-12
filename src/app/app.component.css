@@ -1,0 +1,35 @@
+.container{
+    width: 45%;
+    margin: auto;
+    background-color: gray;
+    }
+
+.name_container , .quote_container{
+    display: flex;
+    flex-direction: column;
+    padding: 5rem;
+}
+
+.name_container>input, .quote_container> input{
+    height: 2rem;
+    
+
+}
+
+.intro{
+    text-align: center;
+}
+
+.intro, .h1{
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+.yote{
+    background-color: darkviolet;
+}
+
+.container, .h4{
+    text-align: center;
+}
