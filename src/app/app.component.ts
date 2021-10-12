@@ -13,6 +13,7 @@ export class AppComponent {
       new Form('Andrew', 'nothing comes easy', 3),
       new Form('Morio wa South', 'being nice costs you nothing', 2),
       new Form('Amy ', 'love is not a one way street', 1),
+      
     ]
   }
 
