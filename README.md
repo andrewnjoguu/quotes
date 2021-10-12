@@ -1,6 +1,6 @@
 # BestQuote
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8. by Andrew Njogu a softwear developer at https://moringaschool.com/
 
 ## Development server
 
@@ -17,14 +17,12 @@ HTML
 CSS
 JAVASCRIPT
 
-## Running unit tests
+## License
+MIT License:
+Copyright (c) 2021 Andrew Koikai
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
+## For further info
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
