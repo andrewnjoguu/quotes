@@ -1,4 +1,4 @@
-# BestQuote
+# Quote generator 3000
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8. by Andrew Njogu a softwear developer at https://moringaschool.com/
 
