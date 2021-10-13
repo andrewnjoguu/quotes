@@ -26,3 +26,8 @@ Copyright (c) 2021 Andrew Koikai
 ## For further info
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Live link
+Below you can find the link to the app or in the about section on github
+andrewnjoguu.github.io/quotes/
