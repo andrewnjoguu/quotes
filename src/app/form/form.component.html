@@ -3,6 +3,11 @@
         <div>{{form.vote}}</div>
         <div>points</div>
     </div>
+
+  
+       
+    </div>
+
     <div class="details">
         <div>
           <a href="{{form.quote}}">{{form.name}}</a>
@@ -13,8 +18,13 @@
          <div (click)="vote_down()">downvote</div>
          
      </div>
+
+     <div class="date">
+        <div>{{goal.description}}</div>
+        <div>Issued on  {{goal.completeDate|dateCount}} days</div>
+     </div>
+     
+     </div>
      <button type="button" class="Delete">Delete</button>
-     <label for="selected-date"><strong>Date issued:</strong></label>
-     <input type="date" id="dob" name="dob" value="">
-    </div>
-</div>
+     
+ 
